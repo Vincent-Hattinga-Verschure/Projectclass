@@ -2,7 +2,7 @@
 include_once "head.php";
 include_once "navbar.php";
 ?>
-<h1>welkom op de klassen website</h1>
+<h1>welkom op de MBIAO17A0 website</h1>
 <p>Hier posten wij belangrijke dingen op de daarvoor bestemde pagina. <br>
 Ook kun je hier het rooster zien.
 
