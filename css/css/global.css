@@ -49,3 +49,17 @@ footer {
   background-color: #333;
   color: white;
 }
+
+.nav {
+  margin-bottom: 40px;
+}
+
+.logo {
+  width: 150px;
+  height: 40px;
+  padding-top: 3px;
+}
+
+.discord {
+  float: right;
+}
