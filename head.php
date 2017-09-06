@@ -1,9 +1,13 @@
 <!doctype html>
 <html lang="nl">
 <head>
-  <meta charset="utf-8">
+
+<meta charset="utf-8">
+
   <title>MBIAO17A0</title>
+
   <link rel="stylesheet" type="text/css" href="global.css">
+
   <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
